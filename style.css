@@ -1,0 +1,37 @@
+body {
+    background-color: beige;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 5rem;
+    background-color: palegoldenrod;
+    color: darkred;
+    padding: 1rem;
+    border-radius: 25px;
+    box-shadow: 5px 5px grey;
+
+}
+
+header {
+    padding: 1em;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 3rem;
+    background-color: aquamarine;
+    box-shadow: 5px 5px grey;
+
+
+}
+
+footer {
+    padding: 5em 2em 2em 2em;
+    border-radius: 25px;
+    text-align: center;
+    font-size: large;
+    background-color: aquamarine;
+    box-shadow: 5px 5px grey;
+}
